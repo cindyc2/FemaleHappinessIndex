@@ -1,3 +1,4 @@
+# hello world
 # Female Happiness Index Codes
 #I'm sure there is a way to make a for loop to number but it didn't like a vector with the diff titles to sort in an automatic loop
 #FinalMerge <- finalmerged_7%>% filter(!is.na(c(X.60, Value.x, ...6, Value.y, Value.x.x, Value.y.y, Value)))
